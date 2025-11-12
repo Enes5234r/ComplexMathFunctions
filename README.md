@@ -10,13 +10,13 @@ This collection includes the following functions:
 * **Fibonacci Term:** Finds the nth term of the Fibonacci sequence (starting with 1, 2).
 * **Hypotenuse Calculation:** Calculates the hypotenuse given two perpendicular sides.
 * **Sum of Numbers:** Calculates the sum of numbers in a given range. (*Note: The current implementation has a logical error.*)
-* **GCD (EBOB):** Finds the Greatest Common Divisor (GCD) of two numbers.
-* **LCM (EKOK):** Finds the Least Common Multiple (LCM) of two numbers.
+* **GCD :** Finds the Greatest Common Divisor (GCD) of two numbers.
+* **LCM :** Finds the Least Common Multiple (LCM) of two numbers.
 
 ## 💾 Setup
 
-No installation is required to use this library. Simply copy the `difficult_maths.py` file into your project directory or clone the repository:
+import difficult_maths
 
 ```bash
-git clone [ADD_YOUR_REPO_URL_HERE]
+git clone https://github.com/Enes5234r/ComplexMathFunctions
 
