@@ -8,7 +8,7 @@ with open(path.join(working_directory, 'README.md'), encoding ='utf-8') as f:
 
 setup(
     name = "ComplexMathFunctions",
-    version = "1.2",
+    version = "1.3",
     author = "Enes5234r",
     description = "Complex math",
     long_description=  long_description,
