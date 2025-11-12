@@ -17,7 +17,7 @@ This collection includes the following functions:
 ## 💾 Setup
 
 ```bash
-pip install ComplexMathFunctions==0.6
+pip install ComplexMathFunctions
 ```
 
 ## Using
