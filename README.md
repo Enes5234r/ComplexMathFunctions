@@ -17,7 +17,10 @@ This collection includes the following functions:
 
 ```bash
 import difficult_maths
+```
+
+## 🔧 Clone
 
 ```bash
 git clone https://github.com/Enes5234r/ComplexMathFunctions
-
+```
