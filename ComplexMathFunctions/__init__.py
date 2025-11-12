@@ -1,1 +1,1 @@
-import difficult_maths
+from ComplexMathFunctions import difficult_maths
