@@ -42,6 +42,6 @@ def lcm(x,y):
     if x > y:
         print("First term should be lower or equal to second term")
     else:
-        least_common_multiple = (x * y) // ebob(x,y)
+        least_common_multiple = (x * y) // gcd(x,y)
         return least_common_multiple
 
