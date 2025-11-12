@@ -15,6 +15,7 @@ This collection includes the following functions:
 
 ## 💾 Setup
 
+```bash
 import difficult_maths
 
 ```bash
