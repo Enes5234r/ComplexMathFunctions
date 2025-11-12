@@ -23,7 +23,7 @@ pip install ComplexMathFunctions==0.6
 ## Using
 
 ```bash
-pip install ComplexMathFunctions==0.6
+from ComplexMathFunctions import difficult_maths
 ```
 
 ## 🔧 Clone
