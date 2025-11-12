@@ -9,7 +9,7 @@ jobs:
     name: ComplexMathFunctions
     runs-on: ubuntu-latest
     environment:
-      name: heaven_5234
+      name: pypi
       url: https://pypi.org/project/ComplexMathFunctions/
     permissions:
       id-token: write
