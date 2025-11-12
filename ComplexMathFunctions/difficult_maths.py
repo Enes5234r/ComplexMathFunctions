@@ -15,7 +15,7 @@ def fibonacci_term(x):
         fibonacci.append(fibonacci[i-1]+fibonacci[i-2])
     return fibonacci[i]
 
-def hipotenus(x,y):
+def hypotenus(x,y):
     sum = x**2 + y**2
     hipotenüs = sum ** 0.5
     return hipotenüs
@@ -28,7 +28,7 @@ def sum_of_numbers(x,y):
         sum = (n * (n + 1)) / 2
     return sum
 
-def ebob(x,y):
+def gcd(x,y):
     largest_factor = 0
     if x > y:
         print("First term should be lower or equal to second term")
@@ -38,7 +38,7 @@ def ebob(x,y):
                 largest_factor = int(i)
         return largest_factor
 
-def ekok(x,y):
+def lcm(x,y):
     if x > y:
         print("First term should be lower or equal to second term")
     else:
