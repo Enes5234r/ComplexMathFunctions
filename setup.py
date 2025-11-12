@@ -9,7 +9,7 @@ with open(path.join(working_directory, 'README.md'), encoding ='utf-8') as f:
 setup(
     name = "ComplexMathFunctions",
     version = "1",
-    author = "Enes523r",
+    author = "Enes5234r",
     description = "Complex math",
     long_description=  long_description,
     long_description_content_type= "text/markdown",
