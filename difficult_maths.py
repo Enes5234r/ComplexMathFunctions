@@ -45,5 +45,3 @@ def ekok(x,y):
         least_common_multiple = (x * y) // ebob(x,y)
         return least_common_multiple
 
-print(ebob(900,1000))
-print(ekok(900,1000))
