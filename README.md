@@ -17,7 +17,13 @@ This collection includes the following functions:
 ## 💾 Setup
 
 ```bash
-import difficult_maths
+pip install ComplexMathFunctions==0.6
+```
+
+## Using
+
+```bash
+pip install ComplexMathFunctions==0.6
 ```
 
 ## 🔧 Clone
