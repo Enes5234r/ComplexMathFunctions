@@ -12,6 +12,7 @@ This collection includes the following functions:
 * **Sum of Numbers:** Calculates the sum of numbers in a given range. (*Note: The current implementation has a logical error.*)
 * **GCD :** Finds the Greatest Common Divisor (GCD) of two numbers.
 * **LCM :** Finds the Least Common Multiple (LCM) of two numbers.
+* ** And more functions are coming
 
 ## 💾 Setup
 
