@@ -33,7 +33,7 @@ def gcd(x,y):
     if x > y:
         print("First term should be lower or equal to second term")
     else:
-        for i in range(1, y):
+        for i in range(2, (y**2) + 2):
             if x % i == 0 and y % i == 0:
                 largest_factor = int(i)
         return largest_factor
